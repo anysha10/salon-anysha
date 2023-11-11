@@ -1,7 +1,7 @@
 # salon-anysha
 ## salon anysha
 
----
+--- 
 
 - primer punto.
 - **segundo punto** ```ejemplo``` 
